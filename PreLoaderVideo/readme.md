@@ -2,7 +2,7 @@
 
 <h3>Ao carregar a pagina no lugar do vídeo é colocado uma imagem do mesmo, e apenas após o clique o vídeo real é carregado, deixando paginas com vários vídeos bem leves.
 
-<a href="https://jsfiddle.net/ByakkoKa/ok80te7a/2/" target="new">Veja Aqui</a>
+<a href="https://jsfiddle.net/ByakkoKa/ok80te7a/6/" target="new">Veja Aqui</a>
 </h3>
 
 <a href="https://github.com/ByakkoKa/My-Codes/raw/master/Javascript/PreLoaderVideo/PreLoaderVideo.zip" >Clique aqui para baixar o plugin</a>

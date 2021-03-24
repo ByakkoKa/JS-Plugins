@@ -1,8 +1,8 @@
 <h1>Lightbox com galeria de imagens</h1>
 
-<a href="https://jsfiddle.net/ByakkoKa/13utwq68/13/">Veja aqui</a>
+<a href="https://jsfiddle.net/ByakkoKa/13utwq68/20/" target="new">Veja aqui</a>
 
-<a href="https://github.com/ByakkoKa/JS-Plugins/raw/master/LightboxGaleriaEmPasta/myLightbox.zip">Clique aqui para baixar o plugin</a>
+<a href="https://github.com/ByakkoKa/JS-Plugins/raw/master/LightboxGaleriaEmPasta/LightboxGaleriaEmPasta.zip">Clique aqui para baixar o plugin</a>
 
 
 <h2>Como usar:</h2>

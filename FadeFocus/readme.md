@@ -1,10 +1,10 @@
 <h3>Fade Effect
 Elementos aparecendo quando estão em focus
 
-<a href="https://jsfiddle.net/ByakkoKa/uy8ce57z/1/">Veja Aqui</a>
+<a href="https://jsfiddle.net/ByakkoKa/uy8ce57z/1/" target="new">Veja Aqui</a>
 </h3>
 
-<a href="https://github.com/ByakkoKa/My-Codes/raw/master/Javascript/FadeFocus/FadeFocus.zip" >Clique aqui para baixar o plugin</a>
+<a href="https://github.com/ByakkoKa/JS-Plugins/raw/master/FadeFocus/FadeFocus.zip" >Clique aqui para baixar o plugin</a>
 
 <h2>Como usar:</h2>
 

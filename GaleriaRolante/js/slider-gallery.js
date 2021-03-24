@@ -6,7 +6,7 @@
 (function() {
     const isMobile = Boolean(document.body.scrollWidth < 600);
 
-    document.querySelectorAll('.sliderGallery').forEach( gallery => {
+    document.querySelectorAll('.my-slider-gallery').forEach( gallery => {
         // Adiciona controladores
         gallery.innerHTML += `<div class="left"><span>‹</span></div>\n<div class="right"><span>›</span></div>\n<div class="dots"></div>`;
         

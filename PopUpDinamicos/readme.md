@@ -1,7 +1,7 @@
 <h1>Galeria de seleção com pop up dinâmicos</h1>
 
 <h3>
-<a href="https://jsfiddle.net/ByakkoKa/24h579o1/4/">Veja Aqui</a>
+<a href="https://jsfiddle.net/ByakkoKa/24h579o1/4/" target="new">Veja Aqui</a>
 </h3>
 
 <h3>O que precisa:</h3>
